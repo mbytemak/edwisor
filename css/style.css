@@ -82,3 +82,7 @@ li {
 .clearfix {
     overflow: auto;
 }
+#intro-section{
+  padding:200px;
+  
+}

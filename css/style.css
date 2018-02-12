@@ -33,8 +33,9 @@ p {
   align-content: center;
 }
 .cell {
-  padding: 10px;
+  padding: 10px 0px 10px 0px;
   margin: 10px;
+  width:33.3333px;
 
   background-color: white;
   border: 1px solid white;
@@ -89,9 +90,7 @@ li {
 }
 }
 
-.clearfix {
-    overflow: auto;
-}
+
 #intro-section{
   padding:200px;
   

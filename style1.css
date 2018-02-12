@@ -94,6 +94,15 @@ li {
   padding: 20px 200px 300px 400px;
   font-size:80px;
 }
+@media only screen and (min-width: 1440px){
+  footer{
+
+    padding:600px 0px 20px 0px;;
+    text-align:center;
+
+
+  }
+}
 footer{
 
   padding:300px 0px 20px 0px;;

@@ -35,8 +35,8 @@ p {
 .cell {
   padding: 10px 0px 10px 0px;
   margin: 10px;
-  width:33.3333px;
-height:130px;
+  width:33.3333%;
+
   background-color: white;
   border: 1px solid white;
   text-align: center;
